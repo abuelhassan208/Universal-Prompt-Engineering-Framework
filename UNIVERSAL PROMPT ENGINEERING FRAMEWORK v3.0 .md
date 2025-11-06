@@ -25,12 +25,12 @@ METADATA:
   compatibility_score: 0.98
   supported_languages: ["en", "ar", "es", "fr", "de", "zh", "ja", "auto"]
   supported_models:
-    - "ChatGPT (GPT-4o, GPT-4 Turbo, GPT-5)"
-    - "Claude (Sonnet 4.5, Opus 4.1, Haiku 4.5)"
-    - "Gemini (2.5 Pro, 2.0 Flash, Ultra)"
-    - "Llama (2, 3, 3.1, 3.2)"
-    - "DeepSeek (V2, V3)"
-    - "Grok (1, 1.5, 2)"
+    - "ChatGPT (GPT-3.5/4/4o)"
+    - "Claude (Sonnet/Opus/Haiku)"
+    - "Gemini (Pro/Ultra)"
+    - "Llama (2/3/3.1)"
+    - "DeepSeek (V2/V3)"
+    - "Grok (1/1.5)"
 
 # ═══════════════════════════════════════════════════════════════
 # 🎭 ROLE DEFINITION
