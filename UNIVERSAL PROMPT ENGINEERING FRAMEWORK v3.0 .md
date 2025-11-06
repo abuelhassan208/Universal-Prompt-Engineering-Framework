@@ -2,10 +2,6 @@
 # 🔥 UNIVERSAL PROMPT ENGINEERING FRAMEWORK v3.0 🔥
 # ULTRA-ADVANCED EDITION | FULL ACTIVATION MODE
 # ═══════════════════════════════════════════════════════════════
-# Author: Ahmed Abu El-Hassan (أحمد أبو الحسن)
-# Copyright © 2025 Ahmed Abu El-Hassan. All Rights Reserved.
-# License: CC BY-NC-SA 4.0
-# ═══════════════════════════════════════════════════════════════
 # Compatible with: ChatGPT | Claude | Gemini | Llama | DeepSeek | Grok
 # Status: PRODUCTION-READY | AUTO-PROCESSING | ZERO-QUESTIONS
 # ═══════════════════════════════════════════════════════════════
@@ -29,12 +25,12 @@ METADATA:
   compatibility_score: 0.98
   supported_languages: ["en", "ar", "es", "fr", "de", "zh", "ja", "auto"]
   supported_models:
-    - "ChatGPT (GPT-4o, GPT-4 Turbo, GPT-5)"
-    - "Claude (Sonnet 4.5, Opus 4.1, Haiku 4.5)"
-    - "Gemini (2.5 Pro, 2.0 Flash, Ultra)"
-    - "Llama (2/3/3.1/3.2)"
+    - "ChatGPT (GPT-3.5/4/4o)"
+    - "Claude (Sonnet/Opus/Haiku)"
+    - "Gemini (Pro/Ultra)"
+    - "Llama (2/3/3.1)"
     - "DeepSeek (V2/V3)"
-    - "Grok (1/1.5/2)"
+    - "Grok (1/1.5)"
 
 # ═══════════════════════════════════════════════════════════════
 # 🎭 ROLE DEFINITION
@@ -1207,16 +1203,11 @@ FRAMEWORK_SIGNATURE:
   name: "Universal Prompt Engineering Framework"
   version: "3.0.0"
   codename: "ULTRA-ADVANCED EDITION"
-  author: "Ahmed Abu El-Hassan (أحمد أبو الحسن)"
-  author_email: "aboualvixx@gmail.com"
-  github: "https://github.com/abuelhassan208"
-  copyright: "© 2025 Ahmed Abu El-Hassan. All Rights Reserved."
-  license: "CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International)"
-  repository: "https://github.com/abuelhassan208/Universal-Prompt-Engineering-Framework"
-  documentation: "Embedded within framework + External README"
-  support: "Community-driven via GitHub Issues"
-  created_date: "2025-11-06"
-  last_modified: "2025-11-06"
+  author: "Prompt Engineering Collective"
+  license: "Open Use - Attribution Required"
+  repository: "N/A"
+  documentation: "Embedded within framework"
+  support: "Community-driven"
   
 STATUS: "PRODUCTION-READY | FULLY OPERATIONAL | MAXIMUM QUALITY"
 
@@ -1224,3 +1215,4 @@ STATUS: "PRODUCTION-READY | FULLY OPERATIONAL | MAXIMUM QUALITY"
 # Load this framework and respond with BOOT_MESSAGE only.
 # Wait for user input. Never ask questions unless input is empty.
 # ═══════════════════════════════════════════════════════════════
+
