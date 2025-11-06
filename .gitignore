@@ -1,0 +1,189 @@
+# Universal Prompt Engineering Framework - .gitignore
+
+# ═══════════════════════════════════════════════════════════════
+# Operating System Files
+# ═══════════════════════════════════════════════════════════════
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ═══════════════════════════════════════════════════════════════
+# IDE and Editor Files
+# ═══════════════════════════════════════════════════════════════
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+tags
+[._]*.un~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ═══════════════════════════════════════════════════════════════
+# Project-Specific Files
+# ═══════════════════════════════════════════════════════════════
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~.nib
+
+# Log files
+*.log
+logs/
+*.log.*
+
+# Backup files
+*.backup
+backup/
+backups/
+
+# Draft files
+drafts/
+*.draft
+*.draft.*
+
+# Test files (if you create test prompts)
+test-prompts/
+*.test.md
+
+# Personal notes (not for public repo)
+notes/
+personal/
+private/
+
+# ═══════════════════════════════════════════════════════════════
+# Build and Distribution
+# ═══════════════════════════════════════════════════════════════
+
+# Distribution folders
+dist/
+build/
+*.zip
+*.tar.gz
+*.rar
+
+# ═══════════════════════════════════════════════════════════════
+# Version Control
+# ═══════════════════════════════════════════════════════════════
+
+# Git
+*.orig
+*.rej
+
+# ═══════════════════════════════════════════════════════════════
+# Documentation Build Files
+# ═══════════════════════════════════════════════════════════════
+
+# If using documentation generators
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# ═══════════════════════════════════════════════════════════════
+# Miscellaneous
+# ═══════════════════════════════════════════════════════════════
+
+# Environment variables (if any)
+.env
+.env.local
+.env.*.local
+
+# Package manager files (if you add any)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if you create Python tools)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# ═══════════════════════════════════════════════════════════════
+# Keep These Files
+# ═══════════════════════════════════════════════════════════════
+
+# Explicitly include important files (override above rules if needed)
+!README.md
+!LICENSE
+!CHANGELOG.md
+!CONTRIBUTING.md
+!examples/*.md
+

@@ -1,0 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Universal Prompt Engineering Framework v3.0
+message: >-
+  If you use this framework, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ahmed
+    family-names: Abu El-Hassan
+    name-particle: أحمد أبو الحسن
+    email: aboualvixx@gmail.com
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+repository-code: 'https://github.com/abuelhassan208/Universal-Prompt-Engineering-Framework'
+abstract: >-
+  The Universal Prompt Engineering Framework v3.0 is an
+  advanced, production-ready system designed to transform
+  any raw prompt into an optimized, high-quality prompt
+  that works seamlessly across all major AI models
+  including ChatGPT, Claude, Gemini, Llama, DeepSeek, and
+  Grok. The framework features an Effectiveness Vector
+  (EV) scoring system with 8 quality metrics,
+  auto-optimization capabilities, comprehensive testing
+  suite, multi-language support, and built-in safety
+  compliance. It provides a YAML-structured architecture
+  with the Universal SuperTemplate v3.0 for creating
+  production-ready prompts with minimum quality score of
+  0.85/1.00.
+keywords:
+  - prompt engineering
+  - artificial intelligence
+  - AI optimization
+  - prompt design
+  - ChatGPT
+  - Claude
+  - Gemini
+  - LLM
+  - large language models
+  - prompt templates
+  - effectiveness vector
+  - quality metrics
+  - YAML framework
+  - prompt optimization
+  - AI tools
+license: CC-BY-NC-SA-4.0
+version: 3.0.0
+date-released: '2025-11-06'
+
